@@ -8,3 +8,6 @@
   <img height="100%" width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=khmelevskiy&theme=dracula&hide_border=true&background=0d1117&fire=bb86fc&currStreakLabel=bb86fc&currStreakNum=bb86fc&sideNums=bb86fc&sideLabels=bb86fc&ring=bb86fc&dates=bb86fc">
   <br>
 </p>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=khmelevskiy&style=for-the-badge&color=bb86fc" alt=""/>
+</div>
